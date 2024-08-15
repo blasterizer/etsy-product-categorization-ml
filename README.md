@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </p>
+
 ## Overview
 This repository contains the resources and code for my Machine Learning Project at Dublin City University, focusing on enhancing product categorization and authentication for the Etsy e-commerce platform using advanced machine learning techniques.
 
@@ -22,16 +23,17 @@ The project utilized various machine learning models to analyze product titles, 
 
 ## Technologies Used
 
-Python: Main programming language
-Natural Language Processing (NLP): For text data processing
-CountVectorizer: For converting text data into numerical format
-Scikit-learn: For implementing machine learning models including:
-Pandas and NumPy: For data manipulation and analysis
+- **Python**: Main programming language.
+- **Natural Language Processing (NLP)**: For text data processing.
+- **CountVectorizer**: For converting text data into numerical format.
+- **Scikit-learn**: For implementing machine learning models.
+- **Pandas and NumPy**: For data manipulation and analysis.
 
-K-Means Clustering
-KNN Classifier
-Multinomial Naive Bayes
-Multi-label Logistic Regression
+#### Machine Learning Models
+- K-Means Clustering
+- KNN Classifier
+- Multinomial Naive Bayes
+- Multi-label Logistic Regression
 
 
 ## Results
@@ -44,7 +46,6 @@ The models showed varying performance across different category types, with colo
 This project provided valuable insights into applying machine learning techniques to e-commerce data, particularly in the context of Etsy's unique marketplace for handmade and vintage items. The research demonstrated the potential of these techniques to enhance product categorization, improve user experience, and contribute to fraud detection efforts.
 
 ## Future Work
-Future iterations of this project aim to:
-Refine data sampling techniques to increase model accuracy
-Enhance image processing methods to improve color prediction
-Explore additional methodologies to boost performance across all category types
+- Refine data sampling techniques to increase model accuracy.
+- Enhance image processing methods to improve color prediction.
+- Explore additional methodologies to boost performance across all category types.
